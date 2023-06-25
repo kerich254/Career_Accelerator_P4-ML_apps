@@ -1,4 +1,4 @@
-# CA-Projects-template-submission-repo
+#Friendly Web Interface for ML Projects with Gradio & Streamlit 
 *short project description*
 
 ## Summary
