@@ -17,7 +17,7 @@
 
 ## App Execution
 ...
-
+##Link to Medium   []
 ## Author
 Kerich Mike
 ...
