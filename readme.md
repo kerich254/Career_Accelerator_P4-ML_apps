@@ -4,7 +4,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP# or P# | Magical Machine Learning |  [Best article of the world](/) | [https://0f5f12cf36326b924d.gradio.live/,](/) |
+| LP# or P# | Magical Machine Learning |  [https://medium.com/@mkibekerich14/machine-learning-predictive-gradio-app-corporation-favorita-grocerystores-f34b976d3245](/) | [https://0f5f12cf36326b924d.gradio.live/,](/) |
 
 ## Project Description
 
@@ -17,7 +17,6 @@
 
 ## App Execution
 ...
-##Link to Medium   []
 ## Author
 Kerich Mike
 ...
